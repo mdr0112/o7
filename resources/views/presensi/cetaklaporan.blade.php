@@ -201,9 +201,9 @@
                 <td colspan="2" style="text-align: right">Bandung, {{ date('d-m-Y') }}</td>
             </tr>
             <tr>
-                <!--<td style="text-align: center; vertical-align:bottom" height="100px">
-                    <u>Qiana Aqila</u><br>
-                    <i><b>HRD Manager</b></i>
+                <td style="text-align: center; vertical-align:bottom" height="100px">
+                    <u></u><br>
+                    <i><b></b></i>
                 </td>-->
                 <td style="text-align: center; vertical-align:bottom">
                     <u>ILMA NATAWIDJAJA</u><br>
