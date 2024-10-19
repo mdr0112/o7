@@ -7,7 +7,7 @@
                     <!-- Page pre-title -->
 
                     <h2 class="page-title">
-                        Rekap Presensi
+                        Rekap Presensi Karyawan
                     </h2>
                 </div>
 
