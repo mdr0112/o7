@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>A4</title>
+    <title>Cetak Rekap</title>
 
     <!-- Normalize or reset CSS with your favorite library -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
@@ -92,15 +92,15 @@
         <table style="width: 100%">
             <tr>
                 <td style="width: 30px">
-                    <img src="{{ asset('assets/img/logopresensi.png') }}" width="70" height="70" alt="">
+                    <img src="{{ asset('assets/img/logonurani.png') }}" width="70" height="70" alt="">
                 </td>
                 <td>
                     <span id="title">
                         REKAP PRESENSI KARYAWAN<br>
                         PERIODE {{ strtoupper($namabulan[$bulan]) }} {{ $tahun }}<br>
-                        PT. ADAM ADIFA<br>
+                        CV NURANI NATA MULIA<br>
                     </span>
-                    <span><i>Jln. H. Dahlan No. 75, Kecamatan Sindangrasa, Kabupaten Ciamis</i></span>
+                    <span><i>Komplek Pasir Pogor No G-7 Bandung Jawa Barat</i></span>
                 </td>
             </tr>
         </table>
@@ -218,13 +218,13 @@
                 <td style="text-align: center">Tasikmalaya, {{ date('d-m-Y') }}</td>
             </tr>
             <tr>
-                <td style="text-align: center; vertical-align:bottom" height="100px">
+                <!--<td style="text-align: center; vertical-align:bottom" height="100px">
                     <u>Qiana Aqila</u><br>
                     <i><b>HRD Manager</b></i>
-                </td>
+                </td>-->
                 <td style="text-align: center; vertical-align:bottom">
-                    <u>Daffa</u><br>
-                    <i><b>Direktur</b></i>
+                    <u>ILMA NATAWIDJAJA</u><br>
+                    <i><b>Manager</b></i>
                 </td>
             </tr>
         </table>
