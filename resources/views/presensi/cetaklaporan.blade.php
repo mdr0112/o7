@@ -198,7 +198,7 @@
 
         <table width="100%" style="margin-top:100px">
             <tr>
-                <td colspan="2" style="text-align: right">Tasikmalaya, {{ date('d-m-Y') }}</td>
+                <td colspan="2" style="text-align: right">Bandung, {{ date('d-m-Y') }}</td>
             </tr>
             <tr>
                 <!--<td style="text-align: center; vertical-align:bottom" height="100px">
